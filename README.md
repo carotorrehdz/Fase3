@@ -16,8 +16,8 @@
 
  ## Tabla de Contenidos
  - [Requerimientos](https://github.com/carotorrehdz/Fase3/tree/develop?tab=readme-ov-file#requerimientos)
- - [Instalación](https://github.com/carotorrehdz/Fase3/develop/README.md#instalación)
- - [Configuración](https://github.com/carotorrehdz/Fase3/develop/README.md#configuración)
+ - Instalación
+ - Configuración
  
  ### Requerimientos
  Información
